@@ -12960,7 +12960,7 @@ html p a:hover {
   opacity: 1; }
 
 html.boxed body {
-  background: #F7F6F9 url(../images/bg-pattern-boxed.png) repeat fixed; }
+  background: #F7F6F9 url(../media/images/bg-pattern-boxed.png) repeat fixed; }
 
 @media (min-width: 1630px) {
   html.boxed .page {
@@ -13927,7 +13927,7 @@ html [class*='section-'].section-bottom-0 {
   background-position: center; }
 
 .bg-image-1 {
-  background-image: url("../images/bg-landing-doctor-1.jpg"); }
+  background-image: url("../media/images/bg-landing-doctor-1.jpg"); }
 
 @media (min-width: 992px) {
   html:not(.tablet):not(.mobile) .bg-fixed {
@@ -19500,11 +19500,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -webkit-overflow-scrolling: touch;
   overflow: auto; }
 .lg-outer .lg-has-vimeo .lg-video-play {
-  background: url("../images/vimeo-play.png") no-repeat scroll 0 0 transparent; }
+  background: url("../media/images/vimeo-play.png") no-repeat scroll 0 0 transparent; }
 .lg-outer .lg-has-vimeo:hover .lg-video-play {
-  background: url("../images/vimeo-play.png") no-repeat scroll 0 -58px transparent; }
+  background: url("../media/images/vimeo-play.png") no-repeat scroll 0 -58px transparent; }
 .lg-outer .lg-has-html5 .lg-video-play {
-  background: transparent url("../images/video-play.png") no-repeat scroll 0 0;
+  background: transparent url("../media/images/video-play.png") no-repeat scroll 0 0;
   height: 64px;
   margin-left: -32px;
   margin-top: -32px;
@@ -19513,9 +19513,9 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-outer .lg-has-html5:hover .lg-video-play {
   opacity: 1; }
 .lg-outer .lg-has-youtube .lg-video-play {
-  background: url("../images/youtube-play.png") no-repeat scroll 0 0 transparent; }
+  background: url("../media/images/youtube-play.png") no-repeat scroll 0 0 transparent; }
 .lg-outer .lg-has-youtube:hover .lg-video-play {
-  background: url("../images/youtube-play.png") no-repeat scroll 0 -60px transparent; }
+  background: url("../media/images/youtube-play.png") no-repeat scroll 0 -60px transparent; }
 .lg-outer .lg-video-object {
   width: 100% !important;
   height: 100% !important;
@@ -20596,7 +20596,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     top: 0;
     white-space: nowrap; }
   .lg-outer .lg-item {
-    background: url("../images/loading.gif") no-repeat scroll center center transparent;
+    background: url("../media/images/loading.gif") no-repeat scroll center center transparent;
     display: none !important; }
     .lg-outer .lg-item.lg-complete {
       background-image: none; }

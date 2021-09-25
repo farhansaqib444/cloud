@@ -17708,7 +17708,7 @@ html p a:hover {
 }
 
 html.boxed body {
-  background: #F7F6F9 url(../images/bg-pattern-boxed.png) repeat fixed;
+  background: #F7F6F9 url(../media/images/bg-pattern-boxed.png) repeat fixed;
 }
 
 @media (min-width: 1630px) {
@@ -19300,7 +19300,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-image-1 {
-  background-image: url("../images/bg-landing-doctor-1.jpg");
+  background-image: url("../media/images/bg-landing-doctor-1.jpg");
 }
 
 @media (min-width: 992px) {
@@ -27738,17 +27738,17 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom {
 
   .lg-has-vimeo {
     .lg-video-play {
-      background: url("../images/vimeo-play.png") no-repeat scroll 0 0 transparent;
+      background: url("../media/images/vimeo-play.png") no-repeat scroll 0 0 transparent;
     }
 
     &:hover .lg-video-play {
-      background: url("../images/vimeo-play.png") no-repeat scroll 0 -58px transparent;
+      background: url("../media/images/vimeo-play.png") no-repeat scroll 0 -58px transparent;
     }
   }
 
   .lg-has-html5 {
     .lg-video-play {
-      background: transparent url("../images/video-play.png") no-repeat scroll 0 0;
+      background: transparent url("../media/images/video-play.png") no-repeat scroll 0 0;
       height: 64px;
       margin-left: -32px;
       margin-top: -32px;
@@ -27763,11 +27763,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom {
 
   .lg-has-youtube {
     .lg-video-play {
-      background: url("../images/youtube-play.png") no-repeat scroll 0 0 transparent;
+      background: url("../media/images/youtube-play.png") no-repeat scroll 0 0 transparent;
     }
 
     &:hover .lg-video-play {
-      background: url("../images/youtube-play.png") no-repeat scroll 0 -60px transparent;
+      background: url("../media/images/youtube-play.png") no-repeat scroll 0 -60px transparent;
     }
   }
 
@@ -29308,7 +29308,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom {
   }
 
   .lg-item {
-    background: url("../images/loading.gif") no-repeat scroll center center transparent;
+    background: url("../media/images/loading.gif") no-repeat scroll center center transparent;
     display: none !important;
 
     &.lg-complete {
