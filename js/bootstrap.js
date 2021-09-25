@@ -1693,7 +1693,7 @@
         }
       }
 
-      this._initializeChildren();
+      this._initial izeChildren();
 
       if (!this._config.parent) {
         this._addAriaAndCollapsedClass(this._triggerArray, this._isShown());
