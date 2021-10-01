@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 /**
  * [Table of contents]
  *   1 Base
@@ -77,6 +77,7 @@ html {
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   height: 100%;
+  font-family: 'Poppins', sans-serif;
 }
 
 @-ms-viewport {
@@ -89,8 +90,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1rem;
+  font-family: 'Poppins', sans-serif;  font-size: 1rem;
   font-weight: 300;
   line-height: 1.625;
   color: #696E7B;
@@ -369,8 +369,7 @@ template {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-weight: 700;
+  font-family: 'Poppins', sans-serif;  font-weight: 700;
   line-height: 1.2;
   color: #293043;
 }
@@ -4952,8 +4951,7 @@ button.close {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-style: normal;
+  font-family: 'Poppins', sans-serif;  font-style: normal;
   font-weight: 400;
   line-height: 1.625;
   text-align: left;
@@ -5065,7 +5063,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.625;
@@ -19925,7 +19923,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, [class*='heading-'] {
   margin-bottom: 0;
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
   font-weight: 700;
   color: #293043;
 }
@@ -20025,7 +20023,7 @@ h5, .heading-5 {
 }
 
 h6, .heading-6 {
-  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   line-height: 1.6;
   color: #192031;
@@ -20508,7 +20506,7 @@ a {
     line-height: 1.4;
     font-style: italic;
     font-weight: 700;
-      font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-family: 'Poppins', sans-serif;
     color: #D2D4D7;
     background: rgba(255, 255, 255, 0.95);
     pointer-events: none;
@@ -20550,7 +20548,7 @@ a {
   border-radius: 50%;
   color: #ffffff;
   background: #192031;
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .box-modern-title {
@@ -22246,7 +22244,7 @@ hr {
 
 .btn-primary {
   border-radius: 3px;
-  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 700;
   letter-spacing: .05em;
   text-transform: uppercase;
@@ -23187,7 +23185,7 @@ textarea.form-input {
   padding-left: 20px;
 
   q {
-      font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-family: 'Poppins', sans-serif;
     font-size: 22px;
     font-weight: 700;
     font-style: italic;
@@ -23357,7 +23355,7 @@ textarea.form-input {
     text-align: center;
     line-height: 69px;
     font-weight: 400;
-      font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-family: 'Poppins', sans-serif;
     transition: all 0.3s ease-in-out;
   }
 }
@@ -23392,7 +23390,7 @@ textarea.form-input {
   border-radius: 50%;
   color: #ffffff;
   font-weight: 400;
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
   transform: translate3d(-50%, -50%, 0);
   transition: .3s ease;
   will-change: transform;
@@ -26800,7 +26798,7 @@ html.rd-navbar-fixed-linked .page {
   font-size: 50px;
   line-height: 1.1;
   font-weight: 700;
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
   color: #192031;
 }
 
